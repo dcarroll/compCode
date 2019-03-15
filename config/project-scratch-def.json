@@ -1,9 +1,0 @@
-{
-    "orgName": "Feb GS0 Org",
-    "edition": "Developer",
-    "hasSampleData": "true",
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"],
-        "disabled": ["S1EncryptedStoragePref2"]
-    }
-}

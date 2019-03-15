@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/business-explorer": [
+                "businessExplorer/businessExplorer.js"
+            ],
+            "c/business-explorer-item": [
+                "businessExplorerItem/businessExplorerItem.js"
+            ],
+            "c/leaflet": [
+                "../staticresources/Leaflet/Leaflet.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ]
+}
